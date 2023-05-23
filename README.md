@@ -1,7 +1,7 @@
-# Paper_review
-딥러닝 논문 정리
+
 ## Zero-shot captioning
-- [Language Models Can See: Plugging Visual Controls in Text Generation  (arXiv 2022)](https://arxiv.org/ftp/arxiv/papers/2001/2001.07685.pdf) , [[ pdf ]](file:///C:/Users/82103/Desktop/%EC%83%88%20%ED%8F%B4%EB%8D%94%20(2)/Language%20Models%20Can%20See_%20Plugging%20Visual%20Controls%20in%20Text%20Generation%20(1).pdf)
+- [Language Models Can See: Plugging Visual Controls in Text Generation  (arXiv 2022)](https://arxiv.org/ftp/arxiv/papers/2001/2001.07685.pdf) , 
+[[ pdf ]](file:///C:/Users/82103/Desktop/%EC%83%88%20%ED%8F%B4%EB%8D%94%20(2)/Language%20Models%20Can%20See_%20Plugging%20Visual%20Controls%20in%20Text%20Generation%20(1).pdf)
 - [ConZIC: Controllable Zero-shot Image Captioning by Sampling-Based Polishing (CVPR 2023)](https://arxiv.org/ftp/arxiv/papers/2001/2001.07685.pdf) , [[ pdf ]](file:///C:/Users/82103/Desktop/%EC%83%88%20%ED%8F%B4%EB%8D%94%20(2)/ConZIC_%20Controllable%20Zero-shot%20Image%20Captioning%20by%20Sampling-Based%20Polishing.pdf)
 
 
