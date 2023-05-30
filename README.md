@@ -6,7 +6,7 @@
 
 
 ## Semi-supervised learning
-- [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence (NeurIPS 2020)](https://arxiv.org/ftp/arxiv/papers/2001/2001.07685.pdf) , [[ 정리pdf ]](file:///C:/Users/82103/Desktop/%EC%83%88%20%ED%8F%B4%EB%8D%94%20(2)/FixMatch_%20Simplifying%20Semi-Supervised%20Learning%20with%20Consistency%20and%20Confidence%20(1).pdf)
+- [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence (NeurIPS 2020)](https://arxiv.org/ftp/arxiv/papers/2001/2001.07685.pdf) , [[ 정리pdf ]](https://github.com/hyeda1/Paper_review/blob/main/semi-supervised%20learning/%EB%85%BC%EB%AC%B8%EC%A0%95%EB%A6%AC_FixMatch_%20Simplifying%20Semi-Supervised%20Learning%20with%20Consistency%20and%20Confidence.pdf)
 
 
 ## Class imbalance
