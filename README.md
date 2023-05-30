@@ -10,7 +10,7 @@
 
 
 ## Class imbalance
-- [Focal Loss for Dense Object Detection (ICCV 2017)](https://arxiv.org/ftp/arxiv/papers/2001/2001.07685.pdf) , [[ 정리pdf ]](file:///C:/Users/82103/Desktop/%EC%83%88%20%ED%8F%B4%EB%8D%94%20(2)/Focal%20Loss%20for%20Dense%20Object%20Detection.pdf)
-- [VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition (ECCV 2022)](https://arxiv.org/ftp/arxiv/papers/2001/2001.07685.pdf) , [[ 정리pdf ]](file:///C:/Users/82103/Desktop/%EC%83%88%20%ED%8F%B4%EB%8D%94%20(2)/VL-LTR_%20Learning%20Class-wise%20Visual-Linguistic%20Representation%20for%20Long-Tailed%20Visual%20Recognition%20(1).pdf)
+- [Focal Loss for Dense Object Detection (ICCV 2017)](https://arxiv.org/ftp/arxiv/papers/2001/2001.07685.pdf) , [[ 정리pdf ]](https://github.com/hyeda1/Paper_review/blob/main/Class%20imbalance/%EB%85%BC%EB%AC%B8%EC%A0%95%EB%A6%AC_Focal%20Loss%20for%20Dense%20Object%20Detection.pdf)
+- [VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition (ECCV 2022)](https://arxiv.org/ftp/arxiv/papers/2001/2001.07685.pdf) , [[ 정리pdf ]](https://github.com/hyeda1/Paper_review/blob/main/Class%20imbalance/%EB%85%BC%EB%AC%B8%EC%A0%95%EB%A6%AC_VL-LTR_%20Learning%20Class-wise%20Visual-Linguistic%20Representation%20for%20Long-Tailed%20Visual%20Recognition.pdf)
 
 
